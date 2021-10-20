@@ -8,12 +8,18 @@ I am an avian ecologist studying the community ecology of birds along tropical m
 
 ### Citizen Science
 
-[![eBird Occupancy Modelling](https://img.shields.io/badge/Github-eBird_Occupancy_Modelling-blue?style=flat-square)](https://github.com/pratikunterwegs/hillybirds)
+[![eBird Occupancy Modelling](https://img.shields.io/badge/Github-eBird_Occupancy_Modelling-blue?style=flat-square)](https://github.com/vjjan91/eBirdOccupancy)
 
-This project uses data from eBird to parse climatic and land cover influences on bird occupancy within a tropical biodiversity hotspot (**In review**). 
+This study uses data from eBird to parse climatic and land cover influences on bird occupancy within a tropical biodiversity hotspot (*In review*). 
+
+### Bioacoustics
+
+[![Bioacoustics](https://img.shields.io/badge/Github-Bioacoustics-blue?style=flat-square)](https://github.com/vjjan91/acoustics-westernGhats)
+
+I analyze acoustic data across sites from the Western Ghats to explore patterns of species diversity and acoustic space use (*In prep*). 
 
 ### Conservation Funding
 
 [![conservation spending](https://img.shields.io/badge/Github-conservation_funding-blue?style=flat-square)](https://github.com/vjjan91/conservation-spending)
 
-Using a large database of grants awarded for biodiversity conservation, our study shows that conservation funding does not track the drivers of biodiversity loss (**In review**)
+Using a large database of grants awarded for biodiversity conservation, our study shows that conservation funding does not track the drivers of biodiversity loss (*In review*)
