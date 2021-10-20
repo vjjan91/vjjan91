@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I am an avian ecologist studying the community ecology of birds along tropical mountains. My research encompasses the fields of bioacoustics, historical ecology and citizen science. 
+I am an avian ecologist studying the community ecology of birds along tropical mountains. My research encompasses the fields of bioacoustics, historical ecology and citizen science (Please see links to different projects below). 
 
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-gray?style=flat-square&logo=GoogleScholar)](https://scholar.google.com/citations?user=wDZCMlMAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-vr2352@columbia.edu-blue?style=flat-square)](mailto:vr2352@columbia.edu)
@@ -16,7 +16,7 @@ This study uses data from eBird to parse climatic and land cover influences on b
 
 [![Bioacoustics](https://img.shields.io/badge/Github-Bioacoustics-blue?style=flat-square)](https://github.com/vjjan91/acoustics-westernGhats)
 
-I analyze acoustic data across sites from the Western Ghats to explore patterns of species diversity and acoustic space use (*In prep*). 
+I analyze acoustic data across sites from the Western Ghats to explore patterns of species diversity and acoustic space use (*In prep*). Listen to a recording of the dawn chorus from the Western Ghats [here](OLCAP2B_20200314_065000.mp3)!
 
 ### Conservation Funding
 
