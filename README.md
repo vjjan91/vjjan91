@@ -9,7 +9,6 @@ I am an avian ecologist studying the community ecology of birds along tropical m
 
 ### Citizen Science
 
-[![](https://img.shields.io/badge/Ecography-blue?style=flat-square)]
 [![eBird Occupancy Modelling](https://img.shields.io/badge/Github-eBird_Occupancy_Modelling-blue?style=flat-square)](https://github.com/vjjan91/eBirdOccupancy)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6501805.svg)](https://doi.org/10.5281/zenodo.6501805)
 
