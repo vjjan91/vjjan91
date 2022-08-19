@@ -16,9 +16,9 @@ This study uses data from eBird to parse climatic and land cover influences on b
 
 ### Bioacoustics
 
-[![Bioacoustics](https://img.shields.io/badge/Github-Bioacoustics-blue?style=flat-square)](https://github.com/vjjan91/acoustics-westernGhats)
+[![acoustics-restoration](https://img.shields.io/badge/Github-acoustics-restoration-blue?style=flat-square)](https://github.com/vjjan91/acoustics-westernGhats)
 
-I analyze acoustic data across sites from the Western Ghats to explore patterns of species diversity and acoustic space use (*In prep*). 
+This study uses acoustic data to examine the impacts of active forest restoration on vocalizing biodiversity in the Western Ghats biodiversity hotspot. (this manuscript is in _review_). 
 
 ### Conservation Funding
 
