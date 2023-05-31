@@ -4,7 +4,7 @@ I am an avian ecologist studying the community ecology of birds along tropical m
 
 [![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](https://orcid.org/0000-0002-0738-8808)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-gray?style=flat-square&logo=GoogleScholar)](https://scholar.google.com/citations?user=wDZCMlMAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-vr292@cornell.edu-blue?style=flat-square)](mailto:vr2352@columbia.edu)
+[![Email](https://img.shields.io/badge/Email-vr292@cornell.edu-blue?style=flat-square)](mailto:vr292@cornell.edu)
 [![Twitter](https://img.shields.io/badge/Twitter-9cf?style=flat-square&logo=Twitter)](https://twitter.com/vjjan91)
 
 ### Citizen Science
