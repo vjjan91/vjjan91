@@ -18,7 +18,7 @@ This study uses data from eBird to parse climatic and land cover influences on b
 
 [![Restoration](https://img.shields.io/badge/Github-Restoration-blue?style=flat-square)](https://github.com/vjjan91/acoustics-westernGhats)
 
-This study uses acoustic data to examine the impacts of active forest restoration on vocalizing biodiversity in the Western Ghats biodiversity hotspot (now published in ![Biological Conservation](https://www.sciencedirect.com/science/article/pii/S0006320723001726)) 
+This study uses acoustic data to examine the impacts of active forest restoration on vocalizing biodiversity in the Western Ghats biodiversity hotspot (now published in [![Biological Conservation](https://img.shields.io/badge/Github-Biological Conservation-blue?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S0006320723001726)  
 
 ### Conservation Funding
 
