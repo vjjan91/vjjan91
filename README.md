@@ -12,7 +12,7 @@ I am an avian ecologist studying the community ecology of birds along tropical m
 [![eBird Occupancy Modelling](https://img.shields.io/badge/Github-eBird_Occupancy_Modelling-blue?style=flat-square)](https://github.com/vjjan91/eBirdOccupancy)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6501805.svg)](https://doi.org/10.5281/zenodo.6501805)
 
-This study uses data from eBird to parse climatic and land cover influences on bird occupancy within a tropical biodiversity hotspot (now published in ![Ecography](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.06075)).   
+This study uses data from eBird to parse climatic and land cover influences on bird occupancy within a tropical biodiversity hotspot. This manuscript is now published in ![Ecography](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.06075).   
 
 ### Bioacoustics
 
