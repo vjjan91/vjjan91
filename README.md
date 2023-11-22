@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-I am an avian ecologist studying the community ecology of birds along tropical mountains. My research encompasses the fields of bioacoustics, historical ecology and citizen science (Please see links to different projects below).
+I am an avian ecologist studying the community ecology of birds along tropical mountains. My research encompasses the fields of bioacoustics, historical ecology, and citizen science (Please see links to different projects below).
 
-[![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](https://orcid.org/0000-0002-0738-8808) [![Google Scholar](https://img.shields.io/badge/GoogleScholar-gray?style=flat-square&logo=GoogleScholar)](https://scholar.google.com/citations?user=wDZCMlMAAAAJ&hl=en) [![Email](https://img.shields.io/badge/Email-vr292@cornell.edu-blue?style=flat-square)](mailto:vr292@cornell.edu) [![Twitter](https://img.shields.io/badge/Twitter-9cf?style=flat-square&logo=Twitter)](https://twitter.com/vjjan91)
+[![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](https://orcid.org/0000-0002-0738-8808) [![Google Scholar](https://img.shields.io/badge/GoogleScholar-gray?style=flat-square&logo=GoogleScholar)](https://scholar.google.com/citations?user=wDZCMlMAAAAJ&hl=en) [![Email](https://img.shields.io/badge/Email-vr292@cornell.edu-blue?style=flat-square)](mailto:vr292@cornell.edu)  
 
 ### Citizen Science
 
@@ -10,14 +10,14 @@ I am an avian ecologist studying the community ecology of birds along tropical m
 
 This study uses data from eBird to parse climatic and land cover influences on bird occupancy within a tropical biodiversity hotspot. This manuscript is now published in [![Ecography](https://img.shields.io/badge/Ecography-blue?style=flat-square)](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.06075).
 
-### Bioacoustics
+### Conservation Bioacoustics
 
 [![Restoration](https://img.shields.io/badge/Github-Restoration-blue?style=flat-square)](https://github.com/vjjan91/acoustics-westernGhats)
 
 This study uses acoustic data to examine the impacts of active forest restoration on vocalizing biodiversity in the Western Ghats biodiversity hotspot. This manuscript is now published in [![Biological Conservation](https://img.shields.io/badge/BiologicalConservation-blue?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S0006320723001726).
 
-### Conservation Funding
+### Historical Ecology
 
-[![conservation spending](https://img.shields.io/badge/Github-conservation_funding-blue?style=flat-square)](https://github.com/vjjan91/conservation-spending)
+[![historical resurveys](https://img.shields.io/badge/Github-historical_resurveys-blue?style=flat-square)](https://github.com/vjjan91/nilgiris-resurvey-project)
 
-Using a large database of grants awarded for biodiversity conservation, our study shows that conservation funding does not track the drivers of biodiversity loss (*In review*).
+Ongoing analyses that asks how a century of climatic and landscape changes have impacted bird communities in the Nilgiri hills of the Western Ghats.   
